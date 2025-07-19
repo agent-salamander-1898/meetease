@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Schedule a Meeting – MeetEase</title>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="script.js"></script>
+</head>
+<body>
+  <!-- Navigation -->
+  <nav class="navbar">
+    <div class="logo">MeetEase</div>
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="booking.html" class="active">Schedule</a></li>
+    </ul>
+  </nav>
+
+  <!-- Booking form section -->
+  <main class="booking-container">
+    <h1>Book a Meeting</h1>
+    <p>Please fill out the form below to schedule a meeting. You will receive a confirmation via email and, if opted in, via SMS.</p>
+    <form id="booking-form" class="booking-form">
+      <div class="form-group">
+        <label for="name">Full Name</label>
+        <input type="text" id="name" name="name" placeholder="Your full name" required>
+      </div>
+      <div class="form-group">
+        <label for="email">Email Address</label>
+        <input type="email" id="email" name="email" placeholder="you@example.com" required>
+      </div>
+      <div class="form-row">
+        <div class="form-group">
+          <label for="date">Date</label>
+          <input type="date" id="date" name="date" required>
+        </div>
+        <div class="form-group">
+          <label for="time">Time</label>
+          <input type="time" id="time" name="time" required>
+        </div>
+      </div>
+      <div class="form-group checkbox-group">
+        <input type="checkbox" id="smsOpt" name="smsOpt">
+        <label for="smsOpt">Receive SMS notifications</label>
+      </div>
+      <div class="form-group" id="phone-group" style="display:none;">
+        <label for="phone">Phone Number</label>
+        <input type="tel" id="phone" name="phone" placeholder="e.g. +6581234567">
+      </div>
+      <button type="submit" class="btn">Schedule Meeting</button>
+      <p id="form-message" class="form-message"></p>
+    </form>
+  </main>
+
+  <footer>
+    <p>© 2025 MeetEase. All rights reserved.</p>
+  </footer>
+</body>
+</html>
