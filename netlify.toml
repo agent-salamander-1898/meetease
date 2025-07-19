@@ -1,0 +1,8 @@
+[build]
+  # Directory to publish the static site from
+  publish = "public"
+  # Functions directory relative to the root of the repository
+  functions = "netlify/functions"
+
+[functions]
+  node_bundler = "esbuild"
