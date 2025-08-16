@@ -1,0 +1,2502 @@
+[
+  {
+    "name": "google.com",
+    "url": "https://google.com",
+    "category": "Search"
+  },
+  {
+    "name": "facebook.com",
+    "url": "https://facebook.com",
+    "category": "Social"
+  },
+  {
+    "name": "youtube.com",
+    "url": "https://youtube.com",
+    "category": "Entertainment"
+  },
+  {
+    "name": "twitter.com",
+    "url": "https://twitter.com",
+    "category": "Social"
+  },
+  {
+    "name": "instagram.com",
+    "url": "https://instagram.com",
+    "category": "Social"
+  },
+  {
+    "name": "linkedin.com",
+    "url": "https://linkedin.com",
+    "category": "Social"
+  },
+  {
+    "name": "microsoft.com",
+    "url": "https://microsoft.com",
+    "category": "Technology"
+  },
+  {
+    "name": "googletagmanager.com",
+    "url": "https://googletagmanager.com",
+    "category": "Search"
+  },
+  {
+    "name": "apple.com",
+    "url": "https://apple.com",
+    "category": "Technology"
+  },
+  {
+    "name": "wikipedia.org",
+    "url": "https://wikipedia.org",
+    "category": "Other"
+  },
+  {
+    "name": "github.com",
+    "url": "https://github.com",
+    "category": "Technology"
+  },
+  {
+    "name": "wordpress.org",
+    "url": "https://wordpress.org",
+    "category": "Technology"
+  },
+  {
+    "name": "youtu.be",
+    "url": "https://youtu.be",
+    "category": "Other"
+  },
+  {
+    "name": "play.google.com",
+    "url": "https://play.google.com",
+    "category": "Search"
+  },
+  {
+    "name": "en.wikipedia.org",
+    "url": "https://en.wikipedia.org",
+    "category": "Other"
+  },
+  {
+    "name": "pinterest.com",
+    "url": "https://pinterest.com",
+    "category": "Social"
+  },
+  {
+    "name": "goo.gl",
+    "url": "https://goo.gl",
+    "category": "Other"
+  },
+  {
+    "name": "maps.google.com",
+    "url": "https://maps.google.com",
+    "category": "Search"
+  },
+  {
+    "name": "vimeo.com",
+    "url": "https://vimeo.com",
+    "category": "Other"
+  },
+  {
+    "name": "docs.google.com",
+    "url": "https://docs.google.com",
+    "category": "Search"
+  },
+  {
+    "name": "apps.apple.com",
+    "url": "https://apps.apple.com",
+    "category": "Technology"
+  },
+  {
+    "name": "x.com",
+    "url": "https://x.com",
+    "category": "Other"
+  },
+  {
+    "name": "whatsapp.com",
+    "url": "https://whatsapp.com",
+    "category": "Social"
+  },
+  {
+    "name": "bit.ly",
+    "url": "https://bit.ly",
+    "category": "Other"
+  },
+  {
+    "name": "tiktok.com",
+    "url": "https://tiktok.com",
+    "category": "Social"
+  },
+  {
+    "name": "amazon.com",
+    "url": "https://amazon.com",
+    "category": "Shopping"
+  },
+  {
+    "name": "adobe.com",
+    "url": "https://adobe.com",
+    "category": "Technology"
+  },
+  {
+    "name": "wordpress.com",
+    "url": "https://wordpress.com",
+    "category": "Technology"
+  },
+  {
+    "name": "nginx.org",
+    "url": "https://nginx.org",
+    "category": "Other"
+  },
+  {
+    "name": "drive.google.com",
+    "url": "https://drive.google.com",
+    "category": "Search"
+  },
+  {
+    "name": "plus.google.com",
+    "url": "https://plus.google.com",
+    "category": "Search"
+  },
+  {
+    "name": "wa.me",
+    "url": "https://wa.me",
+    "category": "Other"
+  },
+  {
+    "name": "mozilla.org",
+    "url": "https://mozilla.org",
+    "category": "Technology"
+  },
+  {
+    "name": "f5.com",
+    "url": "https://f5.com",
+    "category": "Other"
+  },
+  {
+    "name": "nginx.com",
+    "url": "https://nginx.com",
+    "category": "Other"
+  },
+  {
+    "name": "player.vimeo.com",
+    "url": "https://player.vimeo.com",
+    "category": "Other"
+  },
+  {
+    "name": "blogspot.com",
+    "url": "https://blogspot.com",
+    "category": "Other"
+  },
+  {
+    "name": "api.whatsapp.com",
+    "url": "https://api.whatsapp.com",
+    "category": "Social"
+  },
+  {
+    "name": "policies.google.com",
+    "url": "https://policies.google.com",
+    "category": "Search"
+  },
+  {
+    "name": "support.google.com",
+    "url": "https://support.google.com",
+    "category": "Search"
+  },
+  {
+    "name": "europa.eu",
+    "url": "https://europa.eu",
+    "category": "Other"
+  },
+  {
+    "name": "apache.org",
+    "url": "https://apache.org",
+    "category": "Other"
+  },
+  {
+    "name": "t.me",
+    "url": "https://t.me",
+    "category": "Other"
+  },
+  {
+    "name": "maps.app.goo.gl",
+    "url": "https://maps.app.goo.gl",
+    "category": "Other"
+  },
+  {
+    "name": "itunes.apple.com",
+    "url": "https://itunes.apple.com",
+    "category": "Technology"
+  },
+  {
+    "name": "github.io",
+    "url": "https://github.io",
+    "category": "Technology"
+  },
+  {
+    "name": "yahoo.com",
+    "url": "https://yahoo.com",
+    "category": "Search"
+  },
+  {
+    "name": "gravatar.com",
+    "url": "https://gravatar.com",
+    "category": "Other"
+  },
+  {
+    "name": "reddit.com",
+    "url": "https://reddit.com",
+    "category": "Social"
+  },
+  {
+    "name": "tumblr.com",
+    "url": "https://tumblr.com",
+    "category": "Other"
+  },
+  {
+    "name": "miit.gov.cn",
+    "url": "https://miit.gov.cn",
+    "category": "Other"
+  },
+  {
+    "name": "qq.com",
+    "url": "https://qq.com",
+    "category": "Social"
+  },
+  {
+    "name": "macromedia.com",
+    "url": "https://macromedia.com",
+    "category": "Other"
+  },
+  {
+    "name": "forms.gle",
+    "url": "https://forms.gle",
+    "category": "Other"
+  },
+  {
+    "name": "nih.gov",
+    "url": "https://nih.gov",
+    "category": "Other"
+  },
+  {
+    "name": "spotify.com",
+    "url": "https://spotify.com",
+    "category": "Entertainment"
+  },
+  {
+    "name": "beian.miit.gov.cn",
+    "url": "https://beian.miit.gov.cn",
+    "category": "Other"
+  },
+  {
+    "name": "httpd.apache.org",
+    "url": "https://httpd.apache.org",
+    "category": "Other"
+  },
+  {
+    "name": "amazonaws.com",
+    "url": "https://amazonaws.com",
+    "category": "Shopping"
+  },
+  {
+    "name": "support.apple.com",
+    "url": "https://support.apple.com",
+    "category": "Technology"
+  },
+  {
+    "name": "flickr.com",
+    "url": "https://flickr.com",
+    "category": "Other"
+  },
+  {
+    "name": "sites.google.com",
+    "url": "https://sites.google.com",
+    "category": "Search"
+  },
+  {
+    "name": "archive.org",
+    "url": "https://archive.org",
+    "category": "Other"
+  },
+  {
+    "name": "open.spotify.com",
+    "url": "https://open.spotify.com",
+    "category": "Entertainment"
+  },
+  {
+    "name": "medium.com",
+    "url": "https://medium.com",
+    "category": "Other"
+  },
+  {
+    "name": "nytimes.com",
+    "url": "https://nytimes.com",
+    "category": "News"
+  },
+  {
+    "name": "ec.europa.eu",
+    "url": "https://ec.europa.eu",
+    "category": "Other"
+  },
+  {
+    "name": "office.com",
+    "url": "https://office.com",
+    "category": "Technology"
+  },
+  {
+    "name": "w3.org",
+    "url": "https://w3.org",
+    "category": "Other"
+  },
+  {
+    "name": "baidu.com",
+    "url": "https://baidu.com",
+    "category": "Search"
+  },
+  {
+    "name": "soundcloud.com",
+    "url": "https://soundcloud.com",
+    "category": "Entertainment"
+  },
+  {
+    "name": "creativecommons.org",
+    "url": "https://creativecommons.org",
+    "category": "Other"
+  },
+  {
+    "name": "forbes.com",
+    "url": "https://forbes.com",
+    "category": "News"
+  },
+  {
+    "name": "live.com",
+    "url": "https://live.com",
+    "category": "Other"
+  },
+  {
+    "name": "support.mozilla.org",
+    "url": "https://support.mozilla.org",
+    "category": "Technology"
+  },
+  {
+    "name": "www.ncbi.nlm.nih.gov",
+    "url": "https://www.ncbi.nlm.nih.gov",
+    "category": "Other"
+  },
+  {
+    "name": "zoom.us",
+    "url": "https://zoom.us",
+    "category": "Technology"
+  },
+  {
+    "name": "sourceforge.net",
+    "url": "https://sourceforge.net",
+    "category": "Other"
+  },
+  {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org",
+    "category": "Other"
+  },
+  {
+    "name": "cloudflare.com",
+    "url": "https://cloudflare.com",
+    "category": "Technology"
+  },
+  {
+    "name": "paypal.com",
+    "url": "https://paypal.com",
+    "category": "Technology"
+  },
+  {
+    "name": "theguardian.com",
+    "url": "https://theguardian.com",
+    "category": "News"
+  },
+  {
+    "name": "sciencedirect.com",
+    "url": "https://sciencedirect.com",
+    "category": "Other"
+  },
+  {
+    "name": "t.co",
+    "url": "https://t.co",
+    "category": "Other"
+  },
+  {
+    "name": "googleblog.com",
+    "url": "https://googleblog.com",
+    "category": "Search"
+  },
+  {
+    "name": "doi.org",
+    "url": "https://doi.org",
+    "category": "Other"
+  },
+  {
+    "name": "cpanel.net",
+    "url": "https://cpanel.net",
+    "category": "Other"
+  },
+  {
+    "name": "cnn.com",
+    "url": "https://cnn.com",
+    "category": "News"
+  },
+  {
+    "name": "wixsite.com",
+    "url": "https://wixsite.com",
+    "category": "Other"
+  },
+  {
+    "name": "godaddy.com",
+    "url": "https://godaddy.com",
+    "category": "Other"
+  },
+  {
+    "name": "oracle.com",
+    "url": "https://oracle.com",
+    "category": "Technology"
+  },
+  {
+    "name": "dropbox.com",
+    "url": "https://dropbox.com",
+    "category": "Technology"
+  },
+  {
+    "name": "who.int",
+    "url": "https://who.int",
+    "category": "Other"
+  },
+  {
+    "name": "vk.com",
+    "url": "https://vk.com",
+    "category": "Social"
+  },
+  {
+    "name": "tinyurl.com",
+    "url": "https://tinyurl.com",
+    "category": "Other"
+  },
+  {
+    "name": "opera.com",
+    "url": "https://opera.com",
+    "category": "Other"
+  },
+  {
+    "name": "bbc.com",
+    "url": "https://bbc.com",
+    "category": "News"
+  },
+  {
+    "name": "shopify.com",
+    "url": "https://shopify.com",
+    "category": "Shopping"
+  },
+  {
+    "name": "bbc.co.uk",
+    "url": "https://bbc.co.uk",
+    "category": "News"
+  },
+  {
+    "name": "youtube-nocookie.com",
+    "url": "https://youtube-nocookie.com",
+    "category": "Entertainment"
+  },
+  {
+    "name": "launchpad.net",
+    "url": "https://launchpad.net",
+    "category": "Other"
+  },
+  {
+    "name": "issuu.com",
+    "url": "https://issuu.com",
+    "category": "Other"
+  },
+  {
+    "name": "php.net",
+    "url": "https://php.net",
+    "category": "Other"
+  },
+  {
+    "name": "mit.edu",
+    "url": "https://mit.edu",
+    "category": "Other"
+  },
+  {
+    "name": "bing.com",
+    "url": "https://bing.com",
+    "category": "Search"
+  },
+  {
+    "name": "researchgate.net",
+    "url": "https://researchgate.net",
+    "category": "Other"
+  },
+  {
+    "name": "harvard.edu",
+    "url": "https://harvard.edu",
+    "category": "Other"
+  },
+  {
+    "name": "weebly.com",
+    "url": "https://weebly.com",
+    "category": "Other"
+  },
+  {
+    "name": "reuters.com",
+    "url": "https://reuters.com",
+    "category": "News"
+  },
+  {
+    "name": "workspaceupdates.googleblog.com",
+    "url": "https://workspaceupdates.googleblog.com",
+    "category": "Search"
+  },
+  {
+    "name": "cdc.gov",
+    "url": "https://cdc.gov",
+    "category": "Other"
+  },
+  {
+    "name": "wiley.com",
+    "url": "https://wiley.com",
+    "category": "Other"
+  },
+  {
+    "name": "wikimedia.org",
+    "url": "https://wikimedia.org",
+    "category": "Other"
+  },
+  {
+    "name": "nature.com",
+    "url": "https://nature.com",
+    "category": "Other"
+  },
+  {
+    "name": "imdb.com",
+    "url": "https://imdb.com",
+    "category": "Entertainment"
+  },
+  {
+    "name": "ibm.com",
+    "url": "https://ibm.com",
+    "category": "Other"
+  },
+  {
+    "name": "gnu.org",
+    "url": "https://gnu.org",
+    "category": "Other"
+  },
+  {
+    "name": "accounts.google.com",
+    "url": "https://accounts.google.com",
+    "category": "Search"
+  },
+  {
+    "name": "un.org",
+    "url": "https://un.org",
+    "category": "Other"
+  },
+  {
+    "name": "weibo.com",
+    "url": "https://weibo.com",
+    "category": "Social"
+  },
+  {
+    "name": "springer.com",
+    "url": "https://springer.com",
+    "category": "Other"
+  },
+  {
+    "name": "washingtonpost.com",
+    "url": "https://washingtonpost.com",
+    "category": "News"
+  },
+  {
+    "name": "linktr.ee",
+    "url": "https://linktr.ee",
+    "category": "Other"
+  },
+  {
+    "name": "debian.org",
+    "url": "https://debian.org",
+    "category": "Other"
+  },
+  {
+    "name": "bloomberg.com",
+    "url": "https://bloomberg.com",
+    "category": "News"
+  },
+  {
+    "name": "stanford.edu",
+    "url": "https://stanford.edu",
+    "category": "Other"
+  },
+  {
+    "name": "wpa.qq.com",
+    "url": "https://wpa.qq.com",
+    "category": "Social"
+  },
+  {
+    "name": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com",
+    "category": "Social"
+  },
+  {
+    "name": "dropcatch.com",
+    "url": "https://dropcatch.com",
+    "category": "Other"
+  },
+  {
+    "name": "wsj.com",
+    "url": "https://wsj.com",
+    "category": "News"
+  },
+  {
+    "name": "msn.com",
+    "url": "https://msn.com",
+    "category": "Other"
+  },
+  {
+    "name": "outlook.com",
+    "url": "https://outlook.com",
+    "category": "Other"
+  },
+  {
+    "name": "forms.office.com",
+    "url": "https://forms.office.com",
+    "category": "Technology"
+  },
+  {
+    "name": "businessinsider.com",
+    "url": "https://businessinsider.com",
+    "category": "Other"
+  },
+  {
+    "name": "pubmed.ncbi.nlm.nih.gov",
+    "url": "https://pubmed.ncbi.nlm.nih.gov",
+    "category": "Other"
+  },
+  {
+    "name": "nasa.gov",
+    "url": "https://nasa.gov",
+    "category": "Other"
+  },
+  {
+    "name": "g.page",
+    "url": "https://g.page",
+    "category": "Other"
+  },
+  {
+    "name": "cookiedatabase.org",
+    "url": "https://cookiedatabase.org",
+    "category": "Other"
+  },
+  {
+    "name": "cloudfront.net",
+    "url": "https://cloudfront.net",
+    "category": "Other"
+  },
+  {
+    "name": "statista.com",
+    "url": "https://statista.com",
+    "category": "Other"
+  },
+  {
+    "name": "list-manage.com",
+    "url": "https://list-manage.com",
+    "category": "Other"
+  },
+  {
+    "name": "get.adobe.com",
+    "url": "https://get.adobe.com",
+    "category": "Technology"
+  },
+  {
+    "name": "www.gov.uk",
+    "url": "https://www.gov.uk",
+    "category": "Other"
+  },
+  {
+    "name": "unsplash.com",
+    "url": "https://unsplash.com",
+    "category": "Other"
+  },
+  {
+    "name": "beian.gov.cn",
+    "url": "https://beian.gov.cn",
+    "category": "Other"
+  },
+  {
+    "name": "plesk.com",
+    "url": "https://plesk.com",
+    "category": "Other"
+  },
+  {
+    "name": "telegram.me",
+    "url": "https://telegram.me",
+    "category": "Social"
+  },
+  {
+    "name": "example.com",
+    "url": "https://example.com",
+    "category": "Other"
+  },
+  {
+    "name": "discord.com",
+    "url": "https://discord.com",
+    "category": "Other"
+  },
+  {
+    "name": "discord.gg",
+    "url": "https://discord.gg",
+    "category": "Other"
+  },
+  {
+    "name": "wp.com",
+    "url": "https://wp.com",
+    "category": "Other"
+  },
+  {
+    "name": "wired.com",
+    "url": "https://wired.com",
+    "category": "Other"
+  },
+  {
+    "name": "eventbrite.com",
+    "url": "https://eventbrite.com",
+    "category": "Other"
+  },
+  {
+    "name": "amzn.to",
+    "url": "https://amzn.to",
+    "category": "Other"
+  },
+  {
+    "name": "time.com",
+    "url": "https://time.com",
+    "category": "Other"
+  },
+  {
+    "name": "googleusercontent.com",
+    "url": "https://googleusercontent.com",
+    "category": "Search"
+  },
+  {
+    "name": "cnbc.com",
+    "url": "https://cnbc.com",
+    "category": "Other"
+  },
+  {
+    "name": "mysql.com",
+    "url": "https://mysql.com",
+    "category": "Other"
+  },
+  {
+    "name": "npr.org",
+    "url": "https://npr.org",
+    "category": "Other"
+  },
+  {
+    "name": "go.com",
+    "url": "https://go.com",
+    "category": "Other"
+  },
+  {
+    "name": "behance.net",
+    "url": "https://behance.net",
+    "category": "Other"
+  },
+  {
+    "name": "slideshare.net",
+    "url": "https://slideshare.net",
+    "category": "Other"
+  },
+  {
+    "name": "myshopify.com",
+    "url": "https://myshopify.com",
+    "category": "Shopping"
+  },
+  {
+    "name": "calendly.com",
+    "url": "https://calendly.com",
+    "category": "Other"
+  },
+  {
+    "name": "addtoany.com",
+    "url": "https://addtoany.com",
+    "category": "Other"
+  },
+  {
+    "name": "twitch.tv",
+    "url": "https://twitch.tv",
+    "category": "Entertainment"
+  },
+  {
+    "name": "dailymail.co.uk",
+    "url": "https://dailymail.co.uk",
+    "category": "Technology"
+  },
+  {
+    "name": "ietf.org",
+    "url": "https://ietf.org",
+    "category": "Other"
+  },
+  {
+    "name": "usatoday.com",
+    "url": "https://usatoday.com",
+    "category": "Other"
+  },
+  {
+    "name": "hp.com",
+    "url": "https://hp.com",
+    "category": "Other"
+  },
+  {
+    "name": "uk.com",
+    "url": "https://uk.com",
+    "category": "Other"
+  },
+  {
+    "name": "canva.com",
+    "url": "https://canva.com",
+    "category": "Other"
+  },
+  {
+    "name": "telegraph.co.uk",
+    "url": "https://telegraph.co.uk",
+    "category": "News"
+  },
+  {
+    "name": "ebay.com",
+    "url": "https://ebay.com",
+    "category": "Shopping"
+  },
+  {
+    "name": "aliyun.com",
+    "url": "https://aliyun.com",
+    "category": "Other"
+  },
+  {
+    "name": "commons.wikimedia.org",
+    "url": "https://commons.wikimedia.org",
+    "category": "Other"
+  },
+  {
+    "name": "cnet.com",
+    "url": "https://cnet.com",
+    "category": "Other"
+  },
+  {
+    "name": "line.me",
+    "url": "https://line.me",
+    "category": "Other"
+  },
+  {
+    "name": "huawei.com",
+    "url": "https://huawei.com",
+    "category": "Other"
+  },
+  {
+    "name": "stackoverflow.com",
+    "url": "https://stackoverflow.com",
+    "category": "Technology"
+  },
+  {
+    "name": "oup.com",
+    "url": "https://oup.com",
+    "category": "Other"
+  },
+  {
+    "name": "g.co",
+    "url": "https://g.co",
+    "category": "Other"
+  },
+  {
+    "name": "gitlab.com",
+    "url": "https://gitlab.com",
+    "category": "Other"
+  },
+  {
+    "name": "loc.gov",
+    "url": "https://loc.gov",
+    "category": "Other"
+  },
+  {
+    "name": "etsy.com",
+    "url": "https://etsy.com",
+    "category": "Shopping"
+  },
+  {
+    "name": "sharepoint.com",
+    "url": "https://sharepoint.com",
+    "category": "Other"
+  },
+  {
+    "name": "berkeley.edu",
+    "url": "https://berkeley.edu",
+    "category": "Other"
+  },
+  {
+    "name": "ted.com",
+    "url": "https://ted.com",
+    "category": "Other"
+  },
+  {
+    "name": "aol.com",
+    "url": "https://aol.com",
+    "category": "Other"
+  },
+  {
+    "name": "ft.com",
+    "url": "https://ft.com",
+    "category": "Other"
+  },
+  {
+    "name": "blogger.com",
+    "url": "https://blogger.com",
+    "category": "Other"
+  },
+  {
+    "name": "surveymonkey.com",
+    "url": "https://surveymonkey.com",
+    "category": "Other"
+  },
+  {
+    "name": "aboutads.info",
+    "url": "https://aboutads.info",
+    "category": "Other"
+  },
+  {
+    "name": "openai.com",
+    "url": "https://openai.com",
+    "category": "Other"
+  },
+  {
+    "name": "gc.ca",
+    "url": "https://gc.ca",
+    "category": "Other"
+  },
+  {
+    "name": "validator.w3.org",
+    "url": "https://validator.w3.org",
+    "category": "Other"
+  },
+  {
+    "name": "independent.co.uk",
+    "url": "https://independent.co.uk",
+    "category": "Other"
+  },
+  {
+    "name": "outlook.live.com",
+    "url": "https://outlook.live.com",
+    "category": "Other"
+  },
+  {
+    "name": "tandfonline.com",
+    "url": "https://tandfonline.com",
+    "category": "Other"
+  },
+  {
+    "name": "tripadvisor.com",
+    "url": "https://tripadvisor.com",
+    "category": "Other"
+  },
+  {
+    "name": "techcrunch.com",
+    "url": "https://techcrunch.com",
+    "category": "Other"
+  },
+  {
+    "name": "britannica.com",
+    "url": "https://britannica.com",
+    "category": "Other"
+  },
+  {
+    "name": "hubspot.com",
+    "url": "https://hubspot.com",
+    "category": "Other"
+  },
+  {
+    "name": "i0.wp.com",
+    "url": "https://i0.wp.com",
+    "category": "Other"
+  },
+  {
+    "name": "squarespace.com",
+    "url": "https://squarespace.com",
+    "category": "Other"
+  },
+  {
+    "name": "wix.com",
+    "url": "https://wix.com",
+    "category": "Other"
+  },
+  {
+    "name": "imgur.com",
+    "url": "https://imgur.com",
+    "category": "Other"
+  },
+  {
+    "name": "free.fr",
+    "url": "https://free.fr",
+    "category": "Other"
+  },
+  {
+    "name": "fr.wikipedia.org",
+    "url": "https://fr.wikipedia.org",
+    "category": "Other"
+  },
+  {
+    "name": "cornell.edu",
+    "url": "https://cornell.edu",
+    "category": "Other"
+  },
+  {
+    "name": "yelp.com",
+    "url": "https://yelp.com",
+    "category": "Other"
+  },
+  {
+    "name": "ca.gov",
+    "url": "https://ca.gov",
+    "category": "Other"
+  },
+  {
+    "name": "amazon.co.uk",
+    "url": "https://amazon.co.uk",
+    "category": "Shopping"
+  },
+  {
+    "name": "cbsnews.com",
+    "url": "https://cbsnews.com",
+    "category": "News"
+  },
+  {
+    "name": "perfectdomain.com",
+    "url": "https://perfectdomain.com",
+    "category": "Other"
+  },
+  {
+    "name": "expireddomains.com",
+    "url": "https://expireddomains.com",
+    "category": "Other"
+  },
+  {
+    "name": "pixabay.com",
+    "url": "https://pixabay.com",
+    "category": "Other"
+  },
+  {
+    "name": "google.de",
+    "url": "https://google.de",
+    "category": "Search"
+  },
+  {
+    "name": "unesco.org",
+    "url": "https://unesco.org",
+    "category": "Other"
+  },
+  {
+    "name": "bsky.app",
+    "url": "https://bsky.app",
+    "category": "Other"
+  },
+  {
+    "name": "jotform.com",
+    "url": "https://jotform.com",
+    "category": "Other"
+  },
+  {
+    "name": "arxiv.org",
+    "url": "https://arxiv.org",
+    "category": "Other"
+  },
+  {
+    "name": "stripe.com",
+    "url": "https://stripe.com",
+    "category": "Other"
+  },
+  {
+    "name": "outlook.office.com",
+    "url": "https://outlook.office.com",
+    "category": "Technology"
+  },
+  {
+    "name": "dailymotion.com",
+    "url": "https://dailymotion.com",
+    "category": "Other"
+  },
+  {
+    "name": "trustpilot.com",
+    "url": "https://trustpilot.com",
+    "category": "Other"
+  },
+  {
+    "name": "prnewswire.com",
+    "url": "https://prnewswire.com",
+    "category": "News"
+  },
+  {
+    "name": "myspace.com",
+    "url": "https://myspace.com",
+    "category": "Other"
+  },
+  {
+    "name": "iso.org",
+    "url": "https://iso.org",
+    "category": "Other"
+  },
+  {
+    "name": "sagepub.com",
+    "url": "https://sagepub.com",
+    "category": "Other"
+  },
+  {
+    "name": "baike.baidu.com",
+    "url": "https://baike.baidu.com",
+    "category": "Search"
+  },
+  {
+    "name": "samsung.com",
+    "url": "https://samsung.com",
+    "category": "Other"
+  },
+  {
+    "name": "mailchimp.com",
+    "url": "https://mailchimp.com",
+    "category": "Technology"
+  },
+  {
+    "name": "theverge.com",
+    "url": "https://theverge.com",
+    "category": "Other"
+  },
+  {
+    "name": "redhat.com",
+    "url": "https://redhat.com",
+    "category": "Other"
+  },
+  {
+    "name": "sina.com.cn",
+    "url": "https://sina.com.cn",
+    "category": "Other"
+  },
+  {
+    "name": "washington.edu",
+    "url": "https://washington.edu",
+    "category": "Other"
+  },
+  {
+    "name": "fda.gov",
+    "url": "https://fda.gov",
+    "category": "Other"
+  },
+  {
+    "name": "bandcamp.com",
+    "url": "https://bandcamp.com",
+    "category": "Adult"
+  },
+  {
+    "name": "goodreads.com",
+    "url": "https://goodreads.com",
+    "category": "Other"
+  },
+  {
+    "name": "allaboutcookies.org",
+    "url": "https://allaboutcookies.org",
+    "category": "Other"
+  },
+  {
+    "name": "latimes.com",
+    "url": "https://latimes.com",
+    "category": "News"
+  },
+  {
+    "name": "hbr.org",
+    "url": "https://hbr.org",
+    "category": "Other"
+  },
+  {
+    "name": "cambridge.org",
+    "url": "https://cambridge.org",
+    "category": "Adult"
+  },
+  {
+    "name": "gouv.fr",
+    "url": "https://gouv.fr",
+    "category": "Other"
+  },
+  {
+    "name": "substack.com",
+    "url": "https://substack.com",
+    "category": "Other"
+  },
+  {
+    "name": "booking.com",
+    "url": "https://booking.com",
+    "category": "Shopping"
+  },
+  {
+    "name": "networkadvertising.org",
+    "url": "https://networkadvertising.org",
+    "category": "Other"
+  },
+  {
+    "name": "investopedia.com",
+    "url": "https://investopedia.com",
+    "category": "Other"
+  },
+  {
+    "name": "themeforest.net",
+    "url": "https://themeforest.net",
+    "category": "Other"
+  },
+  {
+    "name": "princeton.edu",
+    "url": "https://princeton.edu",
+    "category": "Other"
+  },
+  {
+    "name": "mdpi.com",
+    "url": "https://mdpi.com",
+    "category": "Other"
+  },
+  {
+    "name": "web.whatsapp.com",
+    "url": "https://web.whatsapp.com",
+    "category": "Social"
+  },
+  {
+    "name": "webmd.com",
+    "url": "https://webmd.com",
+    "category": "Other"
+  },
+  {
+    "name": "nationalgeographic.com",
+    "url": "https://nationalgeographic.com",
+    "category": "Other"
+  },
+  {
+    "name": "mailchi.mp",
+    "url": "https://mailchi.mp",
+    "category": "Technology"
+  },
+  {
+    "name": "ailawandorder.com",
+    "url": "https://ailawandorder.com",
+    "category": "Other"
+  },
+  {
+    "name": "netflix.com",
+    "url": "https://netflix.com",
+    "category": "Entertainment"
+  },
+  {
+    "name": "de.wikipedia.org",
+    "url": "https://de.wikipedia.org",
+    "category": "Other"
+  },
+  {
+    "name": "livejournal.com",
+    "url": "https://livejournal.com",
+    "category": "Other"
+  },
+  {
+    "name": "whitehouse.gov",
+    "url": "https://whitehouse.gov",
+    "category": "Other"
+  },
+  {
+    "name": "scholar.google.com",
+    "url": "https://scholar.google.com",
+    "category": "Search"
+  },
+  {
+    "name": "huffingtonpost.com",
+    "url": "https://huffingtonpost.com",
+    "category": "Other"
+  },
+  {
+    "name": "theatlantic.com",
+    "url": "https://theatlantic.com",
+    "category": "Other"
+  },
+  {
+    "name": "mckinsey.com",
+    "url": "https://mckinsey.com",
+    "category": "Other"
+  },
+  {
+    "name": "quora.com",
+    "url": "https://quora.com",
+    "category": "Other"
+  },
+  {
+    "name": "usda.gov",
+    "url": "https://usda.gov",
+    "category": "Other"
+  },
+  {
+    "name": "dx.doi.org",
+    "url": "https://dx.doi.org",
+    "category": "Other"
+  },
+  {
+    "name": "hugedomains.com",
+    "url": "https://hugedomains.com",
+    "category": "Other"
+  },
+  {
+    "name": "mayoclinic.org",
+    "url": "https://mayoclinic.org",
+    "category": "Other"
+  },
+  {
+    "name": "worldbank.org",
+    "url": "https://worldbank.org",
+    "category": "Other"
+  },
+  {
+    "name": "163.com",
+    "url": "https://163.com",
+    "category": "Other"
+  },
+  {
+    "name": "s3.amazonaws.com",
+    "url": "https://s3.amazonaws.com",
+    "category": "Shopping"
+  },
+  {
+    "name": "taobao.com",
+    "url": "https://taobao.com",
+    "category": "Shopping"
+  },
+  {
+    "name": "dribbble.com",
+    "url": "https://dribbble.com",
+    "category": "Other"
+  },
+  {
+    "name": "epa.gov",
+    "url": "https://epa.gov",
+    "category": "Other"
+  },
+  {
+    "name": "academia.edu",
+    "url": "https://academia.edu",
+    "category": "Other"
+  },
+  {
+    "name": "ieee.org",
+    "url": "https://ieee.org",
+    "category": "Other"
+  },
+  {
+    "name": "bilibili.com",
+    "url": "https://bilibili.com",
+    "category": "Other"
+  },
+  {
+    "name": "yandex.ru",
+    "url": "https://yandex.ru",
+    "category": "Search"
+  },
+  {
+    "name": "bp.blogspot.com",
+    "url": "https://bp.blogspot.com",
+    "category": "Other"
+  },
+  {
+    "name": "docker.com",
+    "url": "https://docker.com",
+    "category": "Technology"
+  },
+  {
+    "name": "youku.com",
+    "url": "https://youku.com",
+    "category": "Other"
+  },
+  {
+    "name": "healthline.com",
+    "url": "https://healthline.com",
+    "category": "Other"
+  },
+  {
+    "name": "weforum.org",
+    "url": "https://weforum.org",
+    "category": "Other"
+  },
+  {
+    "name": "scribd.com",
+    "url": "https://scribd.com",
+    "category": "Other"
+  },
+  {
+    "name": "nbcnews.com",
+    "url": "https://nbcnews.com",
+    "category": "News"
+  },
+  {
+    "name": "kickstarter.com",
+    "url": "https://kickstarter.com",
+    "category": "Other"
+  },
+  {
+    "name": "sedo.com",
+    "url": "https://sedo.com",
+    "category": "Other"
+  },
+  {
+    "name": "office365.com",
+    "url": "https://office365.com",
+    "category": "Technology"
+  },
+  {
+    "name": "indiatimes.com",
+    "url": "https://indiatimes.com",
+    "category": "News"
+  },
+  {
+    "name": "marriott.com",
+    "url": "https://marriott.com",
+    "category": "Other"
+  },
+  {
+    "name": "google.co.uk",
+    "url": "https://google.co.uk",
+    "category": "Search"
+  },
+  {
+    "name": "change.org",
+    "url": "https://change.org",
+    "category": "Other"
+  },
+  {
+    "name": "indeed.com",
+    "url": "https://indeed.com",
+    "category": "Other"
+  },
+  {
+    "name": "skype.com",
+    "url": "https://skype.com",
+    "category": "Technology"
+  },
+  {
+    "name": "translate.google.com",
+    "url": "https://translate.google.com",
+    "category": "Search"
+  },
+  {
+    "name": "frontiersin.org",
+    "url": "https://frontiersin.org",
+    "category": "Other"
+  },
+  {
+    "name": "freepik.com",
+    "url": "https://freepik.com",
+    "category": "Other"
+  },
+  {
+    "name": "readthedocs.io",
+    "url": "https://readthedocs.io",
+    "category": "Other"
+  },
+  {
+    "name": "columbia.edu",
+    "url": "https://columbia.edu",
+    "category": "Other"
+  },
+  {
+    "name": "ubuntu.com",
+    "url": "https://ubuntu.com",
+    "category": "Technology"
+  },
+  {
+    "name": "usnews.com",
+    "url": "https://usnews.com",
+    "category": "News"
+  },
+  {
+    "name": "businesswire.com",
+    "url": "https://businesswire.com",
+    "category": "Other"
+  },
+  {
+    "name": "apnews.com",
+    "url": "https://apnews.com",
+    "category": "News"
+  },
+  {
+    "name": "steampowered.com",
+    "url": "https://steampowered.com",
+    "category": "Other"
+  },
+  {
+    "name": "noaa.gov",
+    "url": "https://noaa.gov",
+    "category": "Other"
+  },
+  {
+    "name": "python.org",
+    "url": "https://python.org",
+    "category": "Other"
+  },
+  {
+    "name": "zendesk.com",
+    "url": "https://zendesk.com",
+    "category": "Other"
+  },
+  {
+    "name": "deloitte.com",
+    "url": "https://deloitte.com",
+    "category": "Other"
+  },
+  {
+    "name": "pbs.org",
+    "url": "https://pbs.org",
+    "category": "Other"
+  },
+  {
+    "name": "pexels.com",
+    "url": "https://pexels.com",
+    "category": "Other"
+  },
+  {
+    "name": "youronlinechoices.com",
+    "url": "https://youronlinechoices.com",
+    "category": "Other"
+  },
+  {
+    "name": "fb.com",
+    "url": "https://fb.com",
+    "category": "Other"
+  },
+  {
+    "name": "foxnews.com",
+    "url": "https://foxnews.com",
+    "category": "News"
+  },
+  {
+    "name": "deviantart.com",
+    "url": "https://deviantart.com",
+    "category": "Other"
+  },
+  {
+    "name": "theconversation.com",
+    "url": "https://theconversation.com",
+    "category": "Other"
+  },
+  {
+    "name": "fandom.com",
+    "url": "https://fandom.com",
+    "category": "Other"
+  },
+  {
+    "name": "umich.edu",
+    "url": "https://umich.edu",
+    "category": "Other"
+  },
+  {
+    "name": "state.gov",
+    "url": "https://state.gov",
+    "category": "Other"
+  },
+  {
+    "name": "cisco.com",
+    "url": "https://cisco.com",
+    "category": "Other"
+  },
+  {
+    "name": "huffpost.com",
+    "url": "https://huffpost.com",
+    "category": "News"
+  },
+  {
+    "name": "biomedcentral.com",
+    "url": "https://biomedcentral.com",
+    "category": "Other"
+  },
+  {
+    "name": "economist.com",
+    "url": "https://economist.com",
+    "category": "Other"
+  },
+  {
+    "name": "statcounter.com",
+    "url": "https://statcounter.com",
+    "category": "Other"
+  },
+  {
+    "name": "eepurl.com",
+    "url": "https://eepurl.com",
+    "category": "Other"
+  },
+  {
+    "name": "plos.org",
+    "url": "https://plos.org",
+    "category": "Other"
+  },
+  {
+    "name": "yale.edu",
+    "url": "https://yale.edu",
+    "category": "Other"
+  },
+  {
+    "name": "store.steampowered.com",
+    "url": "https://store.steampowered.com",
+    "category": "Other"
+  },
+  {
+    "name": "apa.org",
+    "url": "https://apa.org",
+    "category": "Other"
+  },
+  {
+    "name": "arcgis.com",
+    "url": "https://arcgis.com",
+    "category": "Other"
+  },
+  {
+    "name": "intel.com",
+    "url": "https://intel.com",
+    "category": "Other"
+  },
+  {
+    "name": "openstreetmap.org",
+    "url": "https://openstreetmap.org",
+    "category": "Other"
+  },
+  {
+    "name": "ox.ac.uk",
+    "url": "https://ox.ac.uk",
+    "category": "Other"
+  },
+  {
+    "name": "googleapis.com",
+    "url": "https://googleapis.com",
+    "category": "Search"
+  },
+  {
+    "name": "patreon.com",
+    "url": "https://patreon.com",
+    "category": "Other"
+  },
+  {
+    "name": "fb.me",
+    "url": "https://fb.me",
+    "category": "Other"
+  },
+  {
+    "name": "psychologytoday.com",
+    "url": "https://psychologytoday.com",
+    "category": "Other"
+  },
+  {
+    "name": "salesforce.com",
+    "url": "https://salesforce.com",
+    "category": "Technology"
+  },
+  {
+    "name": "cbc.ca",
+    "url": "https://cbc.ca",
+    "category": "Other"
+  },
+  {
+    "name": "xing.com",
+    "url": "https://xing.com",
+    "category": "Other"
+  },
+  {
+    "name": "psu.edu",
+    "url": "https://psu.edu",
+    "category": "Other"
+  },
+  {
+    "name": "or.kr",
+    "url": "https://or.kr",
+    "category": "Other"
+  },
+  {
+    "name": "oecd.org",
+    "url": "https://oecd.org",
+    "category": "Other"
+  },
+  {
+    "name": "upload.wikimedia.org",
+    "url": "https://upload.wikimedia.org",
+    "category": "Other"
+  },
+  {
+    "name": "cpanel.com",
+    "url": "https://cpanel.com",
+    "category": "Other"
+  },
+  {
+    "name": "upenn.edu",
+    "url": "https://upenn.edu",
+    "category": "Other"
+  },
+  {
+    "name": "typeform.com",
+    "url": "https://typeform.com",
+    "category": "Other"
+  },
+  {
+    "name": "wikihow.com",
+    "url": "https://wikihow.com",
+    "category": "Other"
+  },
+  {
+    "name": "nypost.com",
+    "url": "https://nypost.com",
+    "category": "Other"
+  },
+  {
+    "name": "sun.com",
+    "url": "https://sun.com",
+    "category": "Other"
+  },
+  {
+    "name": "chatgpt.com",
+    "url": "https://chatgpt.com",
+    "category": "Other"
+  },
+  {
+    "name": "bmj.com",
+    "url": "https://bmj.com",
+    "category": "Other"
+  },
+  {
+    "name": "v.qq.com",
+    "url": "https://v.qq.com",
+    "category": "Social"
+  },
+  {
+    "name": "newsweek.com",
+    "url": "https://newsweek.com",
+    "category": "News"
+  },
+  {
+    "name": "vice.com",
+    "url": "https://vice.com",
+    "category": "Other"
+  },
+  {
+    "name": "zdnet.com",
+    "url": "https://zdnet.com",
+    "category": "Other"
+  },
+  {
+    "name": "buydomains.com",
+    "url": "https://buydomains.com",
+    "category": "Other"
+  },
+  {
+    "name": "sohu.com",
+    "url": "https://sohu.com",
+    "category": "Other"
+  },
+  {
+    "name": "tencent.com",
+    "url": "https://tencent.com",
+    "category": "Other"
+  },
+  {
+    "name": "amazon.de",
+    "url": "https://amazon.de",
+    "category": "Shopping"
+  },
+  {
+    "name": "fortune.com",
+    "url": "https://fortune.com",
+    "category": "Other"
+  },
+  {
+    "name": "business.site",
+    "url": "https://business.site",
+    "category": "Other"
+  },
+  {
+    "name": "jimdo.com",
+    "url": "https://jimdo.com",
+    "category": "Other"
+  },
+  {
+    "name": "nvidia.com",
+    "url": "https://nvidia.com",
+    "category": "Other"
+  },
+  {
+    "name": "alibaba.com",
+    "url": "https://alibaba.com",
+    "category": "Other"
+  },
+  {
+    "name": "domainmarket.com",
+    "url": "https://domainmarket.com",
+    "category": "Other"
+  },
+  {
+    "name": "typepad.com",
+    "url": "https://typepad.com",
+    "category": "Other"
+  },
+  {
+    "name": "giphy.com",
+    "url": "https://giphy.com",
+    "category": "Other"
+  },
+  {
+    "name": "akismet.com",
+    "url": "https://akismet.com",
+    "category": "Other"
+  },
+  {
+    "name": "themeisle.com",
+    "url": "https://themeisle.com",
+    "category": "Other"
+  },
+  {
+    "name": "newyorker.com",
+    "url": "https://newyorker.com",
+    "category": "Other"
+  },
+  {
+    "name": "pewresearch.org",
+    "url": "https://pewresearch.org",
+    "category": "Other"
+  },
+  {
+    "name": "threads.net",
+    "url": "https://threads.net",
+    "category": "Other"
+  },
+  {
+    "name": "windows.net",
+    "url": "https://windows.net",
+    "category": "Other"
+  },
+  {
+    "name": "oreilly.com",
+    "url": "https://oreilly.com",
+    "category": "Other"
+  },
+  {
+    "name": "dev.mysql.com",
+    "url": "https://dev.mysql.com",
+    "category": "Other"
+  },
+  {
+    "name": "wpguardian.com",
+    "url": "https://wpguardian.com",
+    "category": "News"
+  },
+  {
+    "name": "wpguardian.io",
+    "url": "https://wpguardian.io",
+    "category": "News"
+  },
+  {
+    "name": "go.id",
+    "url": "https://go.id",
+    "category": "Other"
+  },
+  {
+    "name": "uci.edu",
+    "url": "https://uci.edu",
+    "category": "Other"
+  },
+  {
+    "name": "android.com",
+    "url": "https://android.com",
+    "category": "Other"
+  },
+  {
+    "name": "fb.watch",
+    "url": "https://fb.watch",
+    "category": "Other"
+  },
+  {
+    "name": "elegantthemes.com",
+    "url": "https://elegantthemes.com",
+    "category": "Other"
+  },
+  {
+    "name": "buzzfeed.com",
+    "url": "https://buzzfeed.com",
+    "category": "Other"
+  },
+  {
+    "name": "books.google.com",
+    "url": "https://books.google.com",
+    "category": "Search"
+  },
+  {
+    "name": "sciencedaily.com",
+    "url": "https://sciencedaily.com",
+    "category": "Other"
+  },
+  {
+    "name": "eff.org",
+    "url": "https://eff.org",
+    "category": "Other"
+  },
+  {
+    "name": "cam.ac.uk",
+    "url": "https://cam.ac.uk",
+    "category": "Adult"
+  },
+  {
+    "name": "jstor.org",
+    "url": "https://jstor.org",
+    "category": "Other"
+  },
+  {
+    "name": "es.wikipedia.org",
+    "url": "https://es.wikipedia.org",
+    "category": "Other"
+  },
+  {
+    "name": "abc.net.au",
+    "url": "https://abc.net.au",
+    "category": "Other"
+  },
+  {
+    "name": "nist.gov",
+    "url": "https://nist.gov",
+    "category": "Other"
+  },
+  {
+    "name": "canada.ca",
+    "url": "https://canada.ca",
+    "category": "Other"
+  },
+  {
+    "name": "merriam-webster.com",
+    "url": "https://merriam-webster.com",
+    "category": "Other"
+  },
+  {
+    "name": "about.com",
+    "url": "https://about.com",
+    "category": "Other"
+  },
+  {
+    "name": "mashable.com",
+    "url": "https://mashable.com",
+    "category": "Other"
+  },
+  {
+    "name": "fastcompany.com",
+    "url": "https://fastcompany.com",
+    "category": "Other"
+  },
+  {
+    "name": "geocities.com",
+    "url": "https://geocities.com",
+    "category": "Other"
+  },
+  {
+    "name": "tripod.com",
+    "url": "https://tripod.com",
+    "category": "Other"
+  },
+  {
+    "name": "ftc.gov",
+    "url": "https://ftc.gov",
+    "category": "Other"
+  },
+  {
+    "name": "umn.edu",
+    "url": "https://umn.edu",
+    "category": "Other"
+  },
+  {
+    "name": "xinhuanet.com",
+    "url": "https://xinhuanet.com",
+    "category": "Other"
+  },
+  {
+    "name": "telegra.ph",
+    "url": "https://telegra.ph",
+    "category": "Other"
+  },
+  {
+    "name": "scientificamerican.com",
+    "url": "https://scientificamerican.com",
+    "category": "Adult"
+  },
+  {
+    "name": "gofundme.com",
+    "url": "https://gofundme.com",
+    "category": "Other"
+  },
+  {
+    "name": "coursera.org",
+    "url": "https://coursera.org",
+    "category": "Other"
+  },
+  {
+    "name": "microsoftonline.com",
+    "url": "https://microsoftonline.com",
+    "category": "Technology"
+  },
+  {
+    "name": "nps.gov",
+    "url": "https://nps.gov",
+    "category": "Other"
+  },
+  {
+    "name": "wisc.edu",
+    "url": "https://wisc.edu",
+    "category": "Other"
+  },
+  {
+    "name": "globenewswire.com",
+    "url": "https://globenewswire.com",
+    "category": "News"
+  },
+  {
+    "name": "postgresql.org",
+    "url": "https://postgresql.org",
+    "category": "Other"
+  },
+  {
+    "name": "firefox.com",
+    "url": "https://firefox.com",
+    "category": "Other"
+  },
+  {
+    "name": "elsevier.com",
+    "url": "https://elsevier.com",
+    "category": "Other"
+  },
+  {
+    "name": "fao.org",
+    "url": "https://fao.org",
+    "category": "Other"
+  },
+  {
+    "name": "wiktionary.org",
+    "url": "https://wiktionary.org",
+    "category": "Other"
+  },
+  {
+    "name": "dell.com",
+    "url": "https://dell.com",
+    "category": "Other"
+  },
+  {
+    "name": "gob.mx",
+    "url": "https://gob.mx",
+    "category": "Other"
+  },
+  {
+    "name": "login.microsoftonline.com",
+    "url": "https://login.microsoftonline.com",
+    "category": "Technology"
+  },
+  {
+    "name": "ovhcloud.com",
+    "url": "https://ovhcloud.com",
+    "category": "Other"
+  },
+  {
+    "name": "news.google.com",
+    "url": "https://news.google.com",
+    "category": "Search"
+  },
+  {
+    "name": "odoo.com",
+    "url": "https://odoo.com",
+    "category": "Other"
+  },
+  {
+    "name": "azurewebsites.net",
+    "url": "https://azurewebsites.net",
+    "category": "Other"
+  },
+  {
+    "name": "admin.ch",
+    "url": "https://admin.ch",
+    "category": "Other"
+  },
+  {
+    "name": "si.edu",
+    "url": "https://si.edu",
+    "category": "Other"
+  },
+  {
+    "name": "gizmodo.com",
+    "url": "https://gizmodo.com",
+    "category": "Other"
+  },
+  {
+    "name": "ucla.edu",
+    "url": "https://ucla.edu",
+    "category": "Other"
+  },
+  {
+    "name": "stackexchange.com",
+    "url": "https://stackexchange.com",
+    "category": "Other"
+  },
+  {
+    "name": "thelancet.com",
+    "url": "https://thelancet.com",
+    "category": "Other"
+  },
+  {
+    "name": "cmu.edu",
+    "url": "https://cmu.edu",
+    "category": "Other"
+  },
+  {
+    "name": "dw.com",
+    "url": "https://dw.com",
+    "category": "Other"
+  },
+  {
+    "name": "sciencemag.org",
+    "url": "https://sciencemag.org",
+    "category": "Other"
+  },
+  {
+    "name": "acs.org",
+    "url": "https://acs.org",
+    "category": "Other"
+  },
+  {
+    "name": "jhu.edu",
+    "url": "https://jhu.edu",
+    "category": "Other"
+  },
+  {
+    "name": "ikea.com",
+    "url": "https://ikea.com",
+    "category": "Other"
+  },
+  {
+    "name": "irs.gov",
+    "url": "https://irs.gov",
+    "category": "Other"
+  },
+  {
+    "name": "uchicago.edu",
+    "url": "https://uchicago.edu",
+    "category": "Other"
+  },
+  {
+    "name": "jamanetwork.com",
+    "url": "https://jamanetwork.com",
+    "category": "Other"
+  },
+  {
+    "name": "gartner.com",
+    "url": "https://gartner.com",
+    "category": "Other"
+  },
+  {
+    "name": "zhihu.com",
+    "url": "https://zhihu.com",
+    "category": "Other"
+  },
+  {
+    "name": "vox.com",
+    "url": "https://vox.com",
+    "category": "Other"
+  },
+  {
+    "name": "disqus.com",
+    "url": "https://disqus.com",
+    "category": "Other"
+  },
+  {
+    "name": "marketwatch.com",
+    "url": "https://marketwatch.com",
+    "category": "Other"
+  },
+  {
+    "name": "us.com",
+    "url": "https://us.com",
+    "category": "Other"
+  },
+  {
+    "name": "techtarget.com",
+    "url": "https://techtarget.com",
+    "category": "Shopping"
+  },
+  {
+    "name": "naver.com",
+    "url": "https://naver.com",
+    "category": "Other"
+  },
+  {
+    "name": "getbootstrap.com",
+    "url": "https://getbootstrap.com",
+    "category": "Other"
+  },
+  {
+    "name": "ed.gov",
+    "url": "https://ed.gov",
+    "category": "Other"
+  },
+  {
+    "name": "pnas.org",
+    "url": "https://pnas.org",
+    "category": "Other"
+  },
+  {
+    "name": "hilton.com",
+    "url": "https://hilton.com",
+    "category": "Other"
+  },
+  {
+    "name": "jigsaw.w3.org",
+    "url": "https://jigsaw.w3.org",
+    "category": "Other"
+  },
+  {
+    "name": "elpais.com",
+    "url": "https://elpais.com",
+    "category": "Other"
+  },
+  {
+    "name": "storage.googleapis.com",
+    "url": "https://storage.googleapis.com",
+    "category": "Search"
+  },
+  {
+    "name": "utexas.edu",
+    "url": "https://utexas.edu",
+    "category": "Other"
+  },
+  {
+    "name": "in.ua",
+    "url": "https://in.ua",
+    "category": "Other"
+  },
+  {
+    "name": "arstechnica.com",
+    "url": "https://arstechnica.com",
+    "category": "Other"
+  },
+  {
+    "name": "1.bp.blogspot.com",
+    "url": "https://1.bp.blogspot.com",
+    "category": "Other"
+  },
+  {
+    "name": "science.org",
+    "url": "https://science.org",
+    "category": "Other"
+  },
+  {
+    "name": "eu.com",
+    "url": "https://eu.com",
+    "category": "Other"
+  },
+  {
+    "name": "moodle.org",
+    "url": "https://moodle.org",
+    "category": "Other"
+  },
+  {
+    "name": "aliexpress.com",
+    "url": "https://aliexpress.com",
+    "category": "Shopping"
+  },
+  {
+    "name": "zoom.com",
+    "url": "https://zoom.com",
+    "category": "Technology"
+  },
+  {
+    "name": "walmart.com",
+    "url": "https://walmart.com",
+    "category": "Shopping"
+  },
+  {
+    "name": "meetup.com",
+    "url": "https://meetup.com",
+    "category": "Other"
+  },
+  {
+    "name": "inc.com",
+    "url": "https://inc.com",
+    "category": "Other"
+  },
+  {
+    "name": "slack.com",
+    "url": "https://slack.com",
+    "category": "Technology"
+  },
+  {
+    "name": "matterport.com",
+    "url": "https://matterport.com",
+    "category": "Other"
+  },
+  {
+    "name": "intuit.com",
+    "url": "https://intuit.com",
+    "category": "Other"
+  },
+  {
+    "name": "wpastra.com",
+    "url": "https://wpastra.com",
+    "category": "Other"
+  },
+  {
+    "name": "medicalnewstoday.com",
+    "url": "https://medicalnewstoday.com",
+    "category": "News"
+  },
+  {
+    "name": "w3schools.com",
+    "url": "https://w3schools.com",
+    "category": "Other"
+  },
+  {
+    "name": "enable-javascript.com",
+    "url": "https://enable-javascript.com",
+    "category": "Other"
+  },
+  {
+    "name": "justgeek.com",
+    "url": "https://justgeek.com",
+    "category": "Other"
+  },
+  {
+    "name": "ico.org.uk",
+    "url": "https://ico.org.uk",
+    "category": "Other"
+  },
+  {
+    "name": "mitre.org",
+    "url": "https://mitre.org",
+    "category": "Other"
+  },
+  {
+    "name": "safety.google",
+    "url": "https://safety.google",
+    "category": "Search"
+  },
+  {
+    "name": "constantcontact.com",
+    "url": "https://constantcontact.com",
+    "category": "Other"
+  },
+  {
+    "name": "kernel.org",
+    "url": "https://kernel.org",
+    "category": "Other"
+  },
+  {
+    "name": "entrepreneur.com",
+    "url": "https://entrepreneur.com",
+    "category": "Other"
+  },
+  {
+    "name": "engadget.com",
+    "url": "https://engadget.com",
+    "category": "Other"
+  },
+  {
+    "name": "bls.gov",
+    "url": "https://bls.gov",
+    "category": "Other"
+  },
+  {
+    "name": "house.gov",
+    "url": "https://house.gov",
+    "category": "Other"
+  },
+  {
+    "name": "people.com.cn",
+    "url": "https://people.com.cn",
+    "category": "Other"
+  },
+  {
+    "name": "m.me",
+    "url": "https://m.me",
+    "category": "Other"
+  },
+  {
+    "name": "digg.com",
+    "url": "https://digg.com",
+    "category": "Other"
+  },
+  {
+    "name": "unicef.org",
+    "url": "https://unicef.org",
+    "category": "Other"
+  },
+  {
+    "name": "box.com",
+    "url": "https://box.com",
+    "category": "Other"
+  },
+  {
+    "name": "acm.org",
+    "url": "https://acm.org",
+    "category": "Other"
+  },
+  {
+    "name": "shutterstock.com",
+    "url": "https://shutterstock.com",
+    "category": "Other"
+  },
+  {
+    "name": "bbb.org",
+    "url": "https://bbb.org",
+    "category": "Other"
+  },
+  {
+    "name": "aboutcookies.org",
+    "url": "https://aboutcookies.org",
+    "category": "Other"
+  },
+  {
+    "name": "uiuc.edu",
+    "url": "https://uiuc.edu",
+    "category": "Other"
+  },
+  {
+    "name": "photobucket.com",
+    "url": "https://photobucket.com",
+    "category": "Other"
+  },
+  {
+    "name": "usgs.gov",
+    "url": "https://usgs.gov",
+    "category": "Other"
+  },
+  {
+    "name": "ovh.com",
+    "url": "https://ovh.com",
+    "category": "Other"
+  },
+  {
+    "name": "variety.com",
+    "url": "https://variety.com",
+    "category": "Other"
+  },
+  {
+    "name": "go.kr",
+    "url": "https://go.kr",
+    "category": "Other"
+  },
+  {
+    "name": "google.fr",
+    "url": "https://google.fr",
+    "category": "Search"
+  },
+  {
+    "name": "hhs.gov",
+    "url": "https://hhs.gov",
+    "category": "Other"
+  },
+  {
+    "name": "guardian.co.uk",
+    "url": "https://guardian.co.uk",
+    "category": "News"
+  }
+]
